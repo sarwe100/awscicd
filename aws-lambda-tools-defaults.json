@@ -11,7 +11,7 @@
   "framework": "netcoreapp3.1",
   "s3-prefix": "dotnetserverless/",
   "template": "serverless.template",
-  "function-runtime": "dotnetcore2.1",
+  "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 30,
   "function-handler": "Dotnetlambda4::Dotnetlambda4.Function::FunctionHandler",
