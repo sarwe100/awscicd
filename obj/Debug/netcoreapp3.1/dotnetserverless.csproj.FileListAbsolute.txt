@@ -1,0 +1,17 @@
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\dotnetserverless.deps.json
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\dotnetserverless.runtimeconfig.json
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\dotnetserverless.runtimeconfig.dev.json
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\dotnetserverless.dll
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\dotnetserverless.pdb
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\Amazon.Lambda.APIGatewayEvents.dll
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\GCP\awscicd\dotnetserverless\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.csproj.AssemblyReference.cache
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.AssemblyInfoInputs.cache
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.AssemblyInfo.cs
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.csproj.CoreCompileInputs.cache
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.csproj.CopyComplete
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.dll
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.pdb
+D:\GCP\awscicd\dotnetserverless\obj\Debug\netcoreapp3.1\dotnetserverless.genruntimeconfig.cache
