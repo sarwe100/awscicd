@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = dotnetserverless
+build_property.ProjectDir = D:\GCP\awscicd\dotnetserverless\
