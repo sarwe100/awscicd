@@ -34,7 +34,7 @@ namespace dotnetserverless
             var response = new APIGatewayProxyResponse
             {
                 StatusCode = (int)HttpStatusCode.OK,
-                Body = "Hello AWS Serverless",
+                Body = "Hello AWS Serverless corected the code",
                 Headers = new Dictionary<string, string> { { "Content-Type", "text/plain" } }
             };
 
