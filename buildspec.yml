@@ -30,4 +30,3 @@ phases:
       - dotnet tool install -g Amazon.Lambda.Tools
       - dotnet tool update -g Amazon.Lambda.Tools
       - dotnet lambda deploy-function "Dotnetlambda4" --function-role "arn:aws:iam::117951442434:role/swatisarwe100@gmail.com" --region "ap-south-1"
-Th
