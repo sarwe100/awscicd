@@ -14,7 +14,7 @@
   "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 50,
-  "function-handler": "dotnetserverless::Dotnetlambda4.Function::FunctionHandler",
+  "function-handler": "dotnetserverless::dotnetserverless.Function::FunctionHandler",
   "function-role": "arn:aws:iam::117951442434:role/swatisarwe100@gmail.com"
 
 }
