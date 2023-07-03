@@ -19,6 +19,7 @@ namespace dotnetserverless
         /// </summary>
         public Functions()
         {
+           
         }
 
 
@@ -34,7 +35,7 @@ namespace dotnetserverless
             var response = new APIGatewayProxyResponse
             {
                 StatusCode = (int)HttpStatusCode.OK,
-                Body = "Hello AWS Serverless   Homi100 ",
+                Body = "Hello AWS Serverless   homes2 ",
                 Headers = new Dictionary<string, string> { { "Content-Type", "text/plain" } }
             };
 
