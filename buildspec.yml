@@ -19,8 +19,8 @@ phases:
       - aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID_PARAM
       - aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY_PARAM
       - cd Dotnetlambda4
-      - cd src
-      - cd Dotnetlambda4
+      - cd D:\GCP\awscicd\
+      - cd awscicd
       - dotnet clean 
       - dotnet restore
   build:
